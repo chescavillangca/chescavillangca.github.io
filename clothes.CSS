@@ -1,0 +1,18 @@
+body {
+    background-color: #D1D3C4;
+}
+h1 {
+    color:#FFA832;
+    text-align:center;
+    text-shadow: 3px 2px #324A5F;
+}
+p{
+    font-family:verdana;
+    font-size:20px;
+}
+img{
+    width:500px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
